@@ -1,0 +1,20 @@
+{
+    "bouff": {
+        "name": "bouff",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla modi quia reiciendis qui animi repudiandae iste inventore facere ut. Beatae esse explicabo officiis iste. Eius voluptate quia necessitatibus aspernatur inventore.",
+        "link": "https://bouff.herokuapp.com",
+        "pic": "/wall.jpg"
+    },
+    "mcandco": {
+        "name": "mcandco",
+        "description": "String",
+        "link": "String",
+        "pic": "String"
+    },
+    "meteo": {
+        "name": "méteo",
+        "description": "String",
+        "link": "String",
+        "pic": "String"
+    }
+}
