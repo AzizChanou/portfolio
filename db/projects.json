@@ -16,5 +16,17 @@
         "description": "String",
         "link": "String",
         "pic": "String"
+    },
+    "satek": {
+        "name": "satek",
+        "description": "String",
+        "link": "String",
+        "pic": "String"
+    },
+    "portfolio": {
+        "name": "portfolio",
+        "description": "String",
+        "link": "String",
+        "pic": "String"
     }
 }
