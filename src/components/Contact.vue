@@ -34,7 +34,7 @@ const sendEmail = (e) => {
         <form @submit.prevent="sendEmail()" method="post" class="space-y-4 w-full">
             <div class="flex flex-col sm:flex-row space-x-0 sm:space-x-4 w-full">
                 <div class="w-full mt-3">
-                    <label for="fullname" class="font-semibold text-lg">Nom complet</label>
+                    <label for="fullname" class="font-semibold text-lg">Nom & prénom.s</label>
                     <input v-model="form.fullname" id="fullname" type="text"
                         class="dark:bg-secondary bg-gray-200 rounded w-full p-4 mt-2" required>
                 </div>

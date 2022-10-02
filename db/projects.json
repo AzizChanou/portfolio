@@ -1,32 +1,32 @@
 {
     "bouff": {
         "name": "bouff",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla modi quia reiciendis qui animi repudiandae iste inventore facere ut. Beatae esse explicabo officiis iste. Eius voluptate quia necessitatibus aspernatur inventore.",
+        "description": "Application  de commande en ligne de mets.",
         "link": "https://bouff.herokuapp.com",
-        "pic": "/wall.jpg"
+        "pic": "/bouff.png"
     },
     "mcandco": {
         "name": "mcandco",
-        "description": "String",
-        "link": "String",
-        "pic": "String"
+        "description": "Landingpage du studio de communication marketing MC&Co",
+        "link": "https://mcandco.herokuapp.com",
+        "pic": "/mcandco.png"
     },
     "meteo": {
-        "name": "méteo",
-        "description": "String",
-        "link": "String",
-        "pic": "String"
+        "name": "méteox",
+        "description": "Petite application pour consulter la meteo courante.",
+        "link": "https://meteox.herokuapp.com",
+        "pic": "/meteox.png"
     },
     "satek": {
         "name": "satek",
-        "description": "String",
-        "link": "String",
-        "pic": "String"
+        "description": "Landingpage quelconaue d'une entreprise de prestation deservices informatique.",
+        "link": "https://satek.herokuapp.com",
+        "pic": "/satek.png"
     },
     "portfolio": {
         "name": "portfolio",
-        "description": "String",
-        "link": "String",
-        "pic": "String"
+        "description": "Mon protfolio contenant ma stack et mes differents projets",
+        "link": "https://azizch.herokuapp.com",
+        "pic": "/azizch.png"
     }
 }
