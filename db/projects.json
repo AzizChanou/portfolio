@@ -5,12 +5,6 @@
         "link": "https://bouff.herokuapp.com",
         "pic": "/bouff.png"
     },
-    "mcandco": {
-        "name": "mcandco",
-        "description": "Landingpage du studio de communication marketing MC&Co",
-        "link": "https://mcandco.herokuapp.com",
-        "pic": "/mcandco.png"
-    },
     "meteo": {
         "name": "méteox",
         "description": "Petite application pour consulter la meteo courante.",
