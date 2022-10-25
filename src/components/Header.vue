@@ -15,7 +15,7 @@ const toggleDarkMode = () => {
 <template>
   <header class="sticky max-w-screen-lg mx-auto">
     <nav>
-      <div class="mx-auto px-6 lg:px-8">
+      <div class="mx-auto px-2 lg:px-8">
         <div class="flex items-center justify-between h-28">
 
           <div class="flex-1 md:flex md:items-center md:gap-12">

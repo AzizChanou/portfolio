@@ -1,19 +1,19 @@
 {
     "bouff": {
         "name": "bouff",
-        "description": "Application  de commande en ligne de mets.",
+        "description": "Application  de commande en ligne de bouff.",
         "link": "https://bouff.herokuapp.com",
         "pic": "/bouff.png"
     },
     "meteo": {
         "name": "méteox",
-        "description": "Petite application pour consulter la meteo courante.",
+        "description": "Petite application pour consulter la méteo.",
         "link": "https://meteox.herokuapp.com",
         "pic": "/meteox.png"
     },
     "satek": {
         "name": "satek",
-        "description": "Landingpage quelconaue d'une entreprise de prestation deservices informatique.",
+        "description": "Landing page d'entreprise de prestation de services informatique.",
         "link": "https://satek.herokuapp.com",
         "pic": "/satek.png"
     },
