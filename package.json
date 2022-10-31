@@ -1,9 +1,8 @@
 {
   "name": "azizch",
-  "private": true,
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --host",
     "build": "vite build",
     "preview": "vite preview",
     "postinstall": "npm run build",
@@ -18,15 +17,14 @@
     "emailjs-com": "^3.2.0",
     "express": "^4.18.1",
     "i18n": "^0.15.0",
-    "lax.js": "^2.0.3",
     "serve-static": "^1.15.0",
-    "swiper": "^8.4.2",
     "vue": "^3.2.37",
     "vue-i18n": "^9.2.2",
     "vue-lazyload": "^3.0.0-rc.2",
     "vue-router": "^4.1.5"
   },
   "devDependencies": {
+    "@intlify/unplugin-vue-i18n": "^0.4.0",
     "@vitejs/plugin-vue": "^3.1.0",
     "autoprefixer": "^10.4.11",
     "postcss": "^8.4.16",

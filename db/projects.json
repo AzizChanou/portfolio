@@ -1,25 +1,21 @@
 {
     "bouff": {
         "name": "bouff",
-        "description": "Application  de commande en ligne de bouff.",
         "link": "https://bouff.herokuapp.com",
         "pic": "/bouff.png"
     },
     "meteo": {
-        "name": "méteox",
-        "description": "Petite application pour consulter la méteo.",
+        "name": "meteox",
         "link": "https://meteox.herokuapp.com",
         "pic": "/meteox.png"
     },
     "satek": {
         "name": "satek",
-        "description": "Landing page d'entreprise de prestation de services informatique.",
         "link": "https://satek.herokuapp.com",
         "pic": "/satek.png"
     },
     "portfolio": {
         "name": "portfolio",
-        "description": "Mon protfolio contenant ma stack et mes differents projets",
         "link": "https://azizch.herokuapp.com",
         "pic": "/azizch.png"
     }

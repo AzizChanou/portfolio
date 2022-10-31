@@ -1,11 +1,21 @@
 {
-    "header": {
-        "home": "Home",
-        "team": "The Team",
-        "project": "Our Projects",
-        "contact": "Contacts",
-        "title": "MC&Co TEAM",
-        "welcome": "We are a team of specialized, strategic and passionate consultants. We use our extensive experience to serve your brand. We create relevant solutions to better connect you to your audience.",
-        "joinus": "JOIN US"
+    "who": {
+        "p1": "Hello, I am",
+        "p2": "Full stack developer",
+        "p3": "passionate, from Benin who likes to develop and deliver quality products."
+    },
+    "project": {
+        "project": "Projects",
+        "bouff": "Web app to order food.",
+        "meteox": "Small App to see weather.",
+        "satek": "Landing page for some enterprise.",
+        "portfolio": "My protfolio."
+    },
+    "contact": {
+        "contactus": "Contact me",
+        "names": "Fullname",
+        "send": "Send",
+        "isend": "Mail send",
+        "notsend": "Mail not send"
     }
 }

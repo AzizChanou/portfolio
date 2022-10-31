@@ -1,11 +1,21 @@
 {
-    "header": {
-        "home": "Acceuil",
-        "team": "La Team",
-        "project": "Nos Projets",
-        "contact": "Contacts",
-        "title": "TEAM MC&Co",
-        "welcome": "Nous sommes une équipe de consultants spécialisés, stratégiques et passionnés. Nous utilisons notre vaste expérience, au service de votre marque. Nous créons des solutions pertinentes, afin de mieux vous connecter à votre audience.",
-        "joinus": "NOUS JOINDRE"
+    "who": {
+        "p1": "Salut, je suis",
+        "p2": "Développeur Fullstack",
+        "p3": "passionné, originaire du Bénin qui aime développer et livrer des produits de qualité."
+    },
+    "project": {
+        "project": "Projets",
+        "bouff": "Application  de commande en ligne de bouff.",
+        "meteox": "Petite application pour consulter la méteo.",
+        "satek": "Landing page d'entreprise de prestation de services informatique.",
+        "portfolio": "Mon protfolio."
+    },
+    "contact": {
+        "contactus": "Contactez-moi",
+        "names": "Nom & prénom.s",
+        "send": "Envoyer",
+        "isend": "Mail Envoyé",
+        "notsend": "Mail non Envoyé"
     }
 }

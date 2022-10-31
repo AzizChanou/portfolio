@@ -32,21 +32,20 @@ const sendMail = () => {
 
 <template>
     <div class="space-y-8 w-full max-w-screen-md">
-        <h3 class="text-center text-3xl font-semibold">Contactez-moi</h3>
+        <h3 class="text-center text-3xl font-semibold">{{ $t("contact.contactus") }}</h3>
         <div v-if="mailSent" id="send"
             class="w-full transition-all opacity-100 text-center p-4 rounded shadow text-white font-sans font-medium text-lg bg-blue-600">
-            Mail
-            Envoyé
+            {{ $t("contact.isend") }}
         </div>
         <div v-if="mailNotSent" id="send"
             class="w-full transition-all opacity-100 text-center p-4 rounded shadow text-white font-sans font-medium text-lg bg-blue-600">
-            Mail non
-            Envoyé
+            {{ $t("contact.notsend") }}
+
         </div>
         <form ref="form" @submit.prevent="sendMail" class="space-y-4 w-full">
             <div class="flex flex-col sm:flex-row space-x-0 sm:space-x-4 w-full">
                 <div class="w-full mt-3">
-                    <label for="fullname" class="font-semibold text-lg">Nom & prénom.s</label>
+                    <label for="fullname" class="font-semibold text-lg"> {{ $t("contact.names") }}</label>
                     <input name="name" v-model="forms.fullname" id="fullname" type="text"
                         class="dark:bg-secondary bg-gray-200 rounded w-full p-4 mt-2" required>
                 </div>
@@ -63,7 +62,8 @@ const sendMail = () => {
             </div>
             <input ref="reset" type="reset" value="Reset" hidden>
             <button type="submit"
-                class="font-semibold p-3 text-white text-xl w-full rounded bg-blue-800 hover:bg-blue-900 duration-300">Envoyer</button>
+                class="font-semibold p-3 text-white text-xl w-full rounded bg-blue-800 hover:bg-blue-900 duration-300">
+                {{ $t("contact.send") }}</button>
         </form>
     </div>
 </template>
