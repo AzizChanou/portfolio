@@ -1,22 +1,27 @@
 {
     "bouff": {
         "name": "bouff",
-        "link": "https://bouff.herokuapp.com",
+        "link": "https://bouff.up.railway.app/",
         "pic": "/bouff.png"
     },
     "meteo": {
         "name": "meteox",
-        "link": "https://meteox.herokuapp.com",
+        "link": "https://meteox.vercel.app",
         "pic": "/meteox.png"
-    },
-    "satek": {
-        "name": "satek",
-        "link": "https://satek.herokuapp.com",
-        "pic": "/satek.png"
     },
     "portfolio": {
         "name": "portfolio",
-        "link": "https://azizch.herokuapp.com",
+        "link": "https://azizch.vercel.app",
         "pic": "/azizch.png"
+    },
+    "mcandco": {
+        "name": "mcandco",
+        "link": "https://mcandco.vercel.app",
+        "pic": "/mcandco.png"
+    },
+    "saket": {
+        "name": "saket",
+        "link": "https://saket-seven.vercel.app",
+        "pic": "/saket.png"
     }
 }

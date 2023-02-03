@@ -5,7 +5,7 @@ import ToggleMode from './ToggleMode.vue'
 </script>
 
 <template>
-  <header class="sticky max-w-screen-lg mx-auto">
+  <header class="w-3/4 max-w-screen-lg mx-auto">
     <nav>
       <div class="mx-auto px-2 lg:px-8">
         <div class="flex items-center justify-between h-28">
@@ -17,7 +17,6 @@ import ToggleMode from './ToggleMode.vue'
           </div>
 
           <div class="md:flex md:items-center md:gap-12">
-
             <div class="flex items-center gap-4">
               <div class="gap-4 flex items-center">
                 <a id="twitter" href="https://twitter.com/azizchanou" target="_blank">
@@ -39,7 +38,6 @@ import ToggleMode from './ToggleMode.vue'
           </div>
 
         </div>
-
       </div>
     </nav>
   </header>

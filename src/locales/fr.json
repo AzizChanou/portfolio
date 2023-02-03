@@ -6,10 +6,10 @@
     },
     "project": {
         "project": "Projets",
-        "bouff": "Application  de commande en ligne de bouff.",
-        "meteox": "Petite application pour consulter la méteo.",
-        "satek": "Landing page d'entreprise de prestation de services informatique.",
-        "portfolio": "Mon protfolio."
+        "bouff": "Notre application de livraison de nourriture vous permet de commander des plats en ligne depuis des restaurants locaux avec une livraison rapide et fiable. Avec des menus en ligne mis à jour en temps réel, des paiements en ligne sécurisés et une grande sélection de restaurants, notre application est la solution idéale pour commander de la nourriture en ligne sans bouger.",
+        "meteox": "Notre petite application météo vous permet de connaître la météo en un clin d'œil. Avec des prévisions météorologiques fiables pour votre emplacement actuel, vous serez toujours préparé pour les conditions climatiques.",
+        "satek": "Notre page d'atterrissage pour une entreprise de prestation de service vous présente nos solutions professionnelles pour répondre à vos besoins en matière de services. Avec une équipe expérimentée et des solutions sur mesure, nous sommes là pour vous aider à atteindre vos objectifs et à améliorer votre rentabilité.",
+        "portfolio": "Mon portfolio met en valeur mes compétences en développement d'applications et mon expérience professionnelle. Avec des exemples de projets réussis, je démontre ma capacité à fournir des solutions de qualité supérieure pour répondre aux besoins uniques de chaque client."
     },
     "contact": {
         "contactus": "Contactez-moi",

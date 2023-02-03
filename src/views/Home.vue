@@ -8,7 +8,7 @@ import Copyright from "../components/Copyright.vue";
 </script>
 
 <template>
-  <div class="flex flex-col items-center space-y-14">
+  <div class="max-w-screen-xl flex flex-col items-center space-y-14">
 
     <Who />
 

@@ -6,10 +6,10 @@
     },
     "project": {
         "project": "Projects",
-        "bouff": "Web app to order food.",
-        "meteox": "Small App to see weather.",
-        "satek": "Landing page for some enterprise.",
-        "portfolio": "My protfolio."
+        "bouff": "Our food delivery app lets you order food online from local restaurants with fast and reliable delivery. With real-time updated online menus, secure online payments and a great selection of restaurants, our app is the perfect solution for ordering food online without moving.",
+        "meteox": "Our small weather app lets you know the weather at a glance. With reliable weather forecasts for your current location, you will always be prepared for weather conditions.",
+        "satek": "Our landing page for a service provider introduces you to our professional solutions to meet your service needs. With an experienced team and tailor-made solutions, we are here to help you achieve your goals and improve your profitability.",
+        "portfolio": "Mon portfolio met en valeur mes compétences en développement d'applications et mon expérience professionnelle. Avec des exemples de projets réussis, je démontre ma capacité à fournir des solutions de qualité supérieure pour répondre aux besoins uniques de chaque client."
     },
     "contact": {
         "contactus": "Contact me",
