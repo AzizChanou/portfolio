@@ -5,7 +5,7 @@ import ToggleMode from './ToggleMode.vue'
 </script>
 
 <template>
-  <header class="w-3/4 max-w-screen-lg mx-auto">
+  <header class="w-full max-w-screen-lg mx-auto">
     <nav>
       <div class="mx-auto px-2 lg:px-8">
         <div class="flex items-center justify-between h-28">
@@ -42,25 +42,3 @@ import ToggleMode from './ToggleMode.vue'
     </nav>
   </header>
 </template>
-
-<style>
-* {
-  border-width: 0px;
-}
-
-html::-webkit-scrollbar {
-  display: none;
-  width: 0px;
-}
-
-html,
-body {
-  scroll-behavior: smooth;
-  width: 100%;
-  height: 100%;
-}
-
-*::-webkit-scrollbar {
-  display: none;
-}
-</style>
