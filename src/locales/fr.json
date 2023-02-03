@@ -2,14 +2,15 @@
     "who": {
         "p1": "Salut, je suis",
         "p2": "Développeur Fullstack",
-        "p3": "passionné, originaire du Bénin qui aime développer et livrer des produits de qualité."
+        "p3": "passionné et expérimenté en développement d'applications web, j'ai une grande connaissance de plusieurs langages de programmation et une capacité à travailler en équipe pour résoudre des problèmes complexes. Je suis toujours en quête d'apprendre de nouvelles technologies pour améliorer mes compétences et offrir des solutions innovantes."
     },
     "project": {
         "project": "Projets",
         "bouff": "Notre application de livraison de nourriture vous permet de commander des plats en ligne depuis des restaurants locaux avec une livraison rapide et fiable. Avec des menus en ligne mis à jour en temps réel, des paiements en ligne sécurisés et une grande sélection de restaurants, notre application est la solution idéale pour commander de la nourriture en ligne sans bouger.",
         "meteox": "Notre petite application météo vous permet de connaître la météo en un clin d'œil. Avec des prévisions météorologiques fiables pour votre emplacement actuel, vous serez toujours préparé pour les conditions climatiques.",
-        "satek": "Notre page d'atterrissage pour une entreprise de prestation de service vous présente nos solutions professionnelles pour répondre à vos besoins en matière de services. Avec une équipe expérimentée et des solutions sur mesure, nous sommes là pour vous aider à atteindre vos objectifs et à améliorer votre rentabilité.",
-        "portfolio": "Mon portfolio met en valeur mes compétences en développement d'applications et mon expérience professionnelle. Avec des exemples de projets réussis, je démontre ma capacité à fournir des solutions de qualité supérieure pour répondre aux besoins uniques de chaque client."
+        "saket": "Notre page d'atterrissage pour une entreprise de prestation de service vous présente nos solutions professionnelles pour répondre à vos besoins en matière de services. Avec une équipe expérimentée et des solutions sur mesure, nous sommes là pour vous aider à atteindre vos objectifs et à améliorer votre rentabilité.",
+        "portfolio": "Mon portfolio met en valeur mes compétences en développement d'applications et mon expérience professionnelle. Avec des exemples de projets réussis, je démontre ma capacité à fournir des solutions de qualité supérieure pour répondre aux besoins uniques de chaque client.",
+        "mcandco": "MC&Co est un studio de Communications Marketing. Nous sommes spécialisés dans la création et la revitalisation de marques. Que ce soit pour un produit, une entreprise ou un événement, nous collaborons avec nos partenaires pour, définir des profils clients / utilisateurs exacts, concevoir des stratégies puissantes et façonner des marques fortes et attrayantes."
     },
     "contact": {
         "contactus": "Contactez-moi",

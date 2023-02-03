@@ -2,14 +2,15 @@
     "who": {
         "p1": "Hello, I am",
         "p2": "Full stack developer",
-        "p3": "passionate, from Benin who likes to develop and deliver quality products."
+        "p3": "passionate and experienced in web application development, I have a great knowledge of several programming languages ​​and an ability to work in a team to solve complex problems. I am always looking to learn new technologies to improve my skills and offer innovative solutions."
     },
     "project": {
         "project": "Projects",
         "bouff": "Our food delivery app lets you order food online from local restaurants with fast and reliable delivery. With real-time updated online menus, secure online payments and a great selection of restaurants, our app is the perfect solution for ordering food online without moving.",
         "meteox": "Our small weather app lets you know the weather at a glance. With reliable weather forecasts for your current location, you will always be prepared for weather conditions.",
-        "satek": "Our landing page for a service provider introduces you to our professional solutions to meet your service needs. With an experienced team and tailor-made solutions, we are here to help you achieve your goals and improve your profitability.",
-        "portfolio": "Mon portfolio met en valeur mes compétences en développement d'applications et mon expérience professionnelle. Avec des exemples de projets réussis, je démontre ma capacité à fournir des solutions de qualité supérieure pour répondre aux besoins uniques de chaque client."
+        "saket": "Our landing page for a service provider introduces you to our professional solutions to meet your service needs. With an experienced team and tailor-made solutions, we are here to help you achieve your goals and improve your profitability.",
+        "portfolio": "Mon portfolio met en valeur mes compétences en développement d'applications et mon expérience professionnelle. Avec des exemples de projets réussis, je démontre ma capacité à fournir des solutions de qualité supérieure pour répondre aux besoins uniques de chaque client.",
+        "mcandco": "MC&Co is a Marketing Communications studio. We specialize in creating and revitalizing brands. Whether it is for a product, a company or an event, we collaborate with our partners to, define exact customer / user profiles, design powerful strategies and shape strong and attractive brands."
     },
     "contact": {
         "contactus": "Contact me",

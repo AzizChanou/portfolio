@@ -4,7 +4,7 @@
     <div class="space-y-8">
         <h3 class="text-center text-3xl font-semibold">My Stack</h3>
         <div
-            class="grid grid-cols-3 gap-14 sm:gap-0 sm:flex sm:flex-wrap sm:space-x-5 sm:space-y-5 sm:hover:space-x-10 items-center duration-1000">
+            class="grid grid-cols-3 gap-14 sm:gap-0 sm:flex sm:flex-wrap sm:space-x-5 sm:space-y-5 sm:hover:space-x-10 items-center duration-500">
 
             <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor"
                 class="text-4xl hover:text-blue-400 hover:scale-105 duration-300" width="1.67em" height="1em"
@@ -14,6 +14,10 @@
             </svg>
             <font-awesome-icon icon="fa-brands fa-square-js"
                 class="text-5xl hover:text-yellow-300 hover:scale-105 duration-300" />
+            <font-awesome-icon icon="fa-brands fa-php"
+                class="text-5xl hover:text-violet-300 hover:scale-105 duration-300" />
+            <font-awesome-icon icon="fa-brands fa-wordpress"
+                class="text-5xl hover:text-cyan-300 hover:scale-105 duration-300" />
             <font-awesome-icon icon="fa-brands fa-vuejs"
                 class="text-5xl hover:text-green-500 hover:scale-105 duration-300" />
             <font-awesome-icon icon="fa-brands fa-node-js"
@@ -26,8 +30,10 @@
                 class="text-5xl hover:text-yellow-500 hover:scale-105 duration-300" />
             <font-awesome-icon icon="fa-brands fa-google"
                 class="text-5xl hover:text-red-500 hover:scale-105 duration-300" />
-            <font-awesome-icon icon="fa-brands fa-github"
-                class="text-5xl hover:text-gray-500 hover:scale-105 duration-300" />
+            <font-awesome-icon icon="fa-brands fa-git"
+                class="text-5xl hover:text-orange-500 hover:scale-105 duration-300" />
+            <font-awesome-icon icon="fa-brands fa-docker"
+                class="text-5xl hover:text-blue-400 hover:scale-105 duration-300" />
 
             <!--  <font-awesome-icon icon="fa-brands fa-python" class="text-5xl hover:text-gray-500 duration-300" />
             <font-awesome-icon icon="fa-brands fa-golang" class="text-5xl hover:text-gray-500 duration-300" />

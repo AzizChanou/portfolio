@@ -8,7 +8,7 @@
         <h2 class="font-bold text-4xl sm:text-5xl text-center text-blue-600">
             {{ $t("who.p2") }}
         </h2>
-        <p class="px-3 max-w-lg font-semibold text-center text-lg">
+        <p class="px-3 max-w-lg font-semibold text-justify text-lg">
             {{ $t("who.p3") }}
         </p>
     </div>
