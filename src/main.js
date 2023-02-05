@@ -10,7 +10,6 @@ import { inject } from '@vercel/analytics';
 
 import './style.css'
 
-inject();
 library.add(fab)
 
 createApp(App)
@@ -24,3 +23,4 @@ createApp(App)
     })
     .component('font-awesome-icon', FontAwesomeIcon)
     .mount('#app')
+inject();
