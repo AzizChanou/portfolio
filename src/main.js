@@ -6,8 +6,11 @@ import router from './router'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { fab } from '@fortawesome/free-brands-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
+import { inject } from '@vercel/analytics';
+
 import './style.css'
 
+inject();
 library.add(fab)
 
 createApp(App)
